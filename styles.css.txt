@@ -1,0 +1,14 @@
+body {
+	background: gray;
+	margin: 0;
+}
+
+header{
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+div.postinsta {
+	background: white;
+}
